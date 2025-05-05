@@ -1,0 +1,30 @@
+{
+	"name": "incroyable-elucid",
+	"description": "Une liste recensant les \"meilleurs\" articles et entretiens d'Élucid",
+	"license": "CC0-1.0",
+	"repository": "github:HorlogeSkynet/incroyable-elucid",
+	"homepage": "https://github.com/HorlogeSkynet/incroyable-elucid#readme",
+	"contributors": [
+		{
+			"name": "Samuel FORESTIER",
+			"email": "samuel+dev@forestier.app",
+			"url": "https://samuel.forestier.app/"
+		}
+	],
+	"keywords": [
+		"article",
+		"awesome",
+		"awesome-list",
+		"elucid",
+		"interview",
+		"media"
+	],
+	"scripts": {
+		"test": "awesome-lint",
+		"bump": "git tag \"$(date -u +%Y.%m_${MICRO:-1})\""
+	},
+	"devDependencies": {
+		"awesome-lint": "^1.2.0"
+	},
+	"private": true
+}
