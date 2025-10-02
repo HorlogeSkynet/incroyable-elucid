@@ -22,7 +22,7 @@ N'hésitez pas à contribuer avec des [pull requests](https://github.com/Horloge
 ## Articles
 
 | Auteur(s)                               | Titre                                                                             |                                                                 Lien                                                                |
-| :---------------------------------------| :-------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------: |
+| :-------------------------------------- | :-------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------: |
 | **Paul FERNANDEZ-MATEO**                | Sabotage de Nord Stream : quand la propagande européenne se heurte au réel        | [Lien](https://elucid.media/politique/sabotage-de-nord-stream-quand-la-propagande-europeenne-se-heurte-au-reel)                     |
 | **Thomas LE BONNIEC**                   | « Stop Destroying Videogames » contre la fausse propriété numérique               | [Lien](https://elucid.media/societe/un-million-et-demi-de-joueurs-en-colere-stop-killing-game-contre-la-fausse-propriete-numerique) |
 | **Chris HEDGES**                        | « Le génocide des Palestiniens est un business lucratif »                         | [Lien](https://elucid.media/democratie/le-genocide-des-palestiniens-est-un-business-lucratif-chris-hedges)                          |
