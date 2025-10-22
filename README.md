@@ -21,6 +21,7 @@ N'hésitez pas à contribuer avec des [pull requests](https://github.com/Horloge
 
 ## Articles
 
+<!--lint disable table-cell-padding-->
 | Auteur(s)                               | Titre                                                                             |                                                                 Lien                                                                |
 | :-------------------------------------- | :-------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------: |
 | **Paul FERNANDEZ-MATEO**                | Sabotage de Nord Stream : quand la propagande européenne se heurte au réel        | [Lien](https://elucid.media/politique/sabotage-de-nord-stream-quand-la-propagande-europeenne-se-heurte-au-reel)                     |
@@ -54,9 +55,11 @@ N'hésitez pas à contribuer avec des [pull requests](https://github.com/Horloge
 | **Thomas LE BONNIEC**                   | Extractivisme, surexploitation, pollution : le coût environnemental du numérique  | [Lien](https://elucid.media/environnement/extractivisme-surexploitation-pollution-le-cout-environnemental-du-numerique)             |
 | **Alexandra BUSTE** & **Xavier LALBIN** | Renault, symbole de la désindustrialisation en France                             | [Lien](https://elucid.media/analyse-graphique/renault-symbole-desindustrialisation-france-automobile-production-delocalisations)    |
 | **Éric JUILLOT**                        | Prix de l'électricité : EDF et l'échec de la libéralisation du marché européen    | [Lien](https://elucid.media/politique/prix-electricite-edf-echec-liberalisation-marche-europeen)                                    |
+<!--lint enable table-cell-padding-->
 
 ## Entretiens
 
+<!--lint disable table-cell-padding-->
 | Invité                          | Titre                                                                                  |                                                        Article + YouTube                                                        |                        PeerTube                        |
 | :------------------------------ | :------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------: |
 | **Gilles RAVEAUD**              | 3 400 milliards de dette : la France ne peut plus se financer ?                        | [Lien](https://elucid.media/economie/3-400-milliards-de-dette-la-france-ne-peut-plus-se-financer-g-raveaud-o-berruyer)          | [Lien](https://indymotion.fr/w/fe1xy4ZZomDgBb9hQmce8b) |
@@ -89,6 +92,7 @@ N'hésitez pas à contribuer avec des [pull requests](https://github.com/Horloge
 | **Emmanuel DOCKÈS**             | On peut tout reconstruire : travail, pouvoir, société, finance, économie               | [Lien](https://elucid.media/democratie/emmanuel-dockes-tout-reconstruire-travail-pouvoir-societe-finance-economie)              | [Lien](https://indymotion.fr/w/59jTnQfcFKa8Ccg4vdrLRJ) |
 | **Frédéric TADDEÏ**             | Penser contre soi pour comprendre l'époque                                             | [Lien](https://elucid.media/democratie/penser-contre-soi-pour-comprendre-l-epoque-frederic-taddei)                              | [Lien](https://indymotion.fr/w/88rQotXh4WXGub8ZuptHxR) |
 | **Nicolas FRAMONT**             | Comment les bourgeois nous empoisonnent la vie                                         | [Lien](https://elucid.media/societe/nicolas-framont-comment-bourgeois-empoisonnent-la-vie)                                      | [Lien](https://indymotion.fr/w/fgeGhgELCsiWa9g8uxmpva) |
+<!--lint enable table-cell-padding-->
 
 ## Avertissement
 
